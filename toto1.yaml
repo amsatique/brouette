@@ -1,5 +1,6 @@
+---
 toto:
   name: brouette
-  lastname: joe
-  age: 16
+    lastname: joe
+age: 16
   sex: masc

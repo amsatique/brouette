@@ -37,4 +37,4 @@ pre-commit:
   commands:
     lint:
       glob: "*.yaml"
-      run: yamllint {staged_files}
+      run: yamllint -s {staged_files}
